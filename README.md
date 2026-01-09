@@ -23,3 +23,12 @@ UI 库 wot-ui 配置完成
 │
 ◆  项目unibest4-demo创建成功！
 ```
+
+## 运行
+```sh
+pnpm i
+pnpm dev
+# 第一次运行可以多运行一次 pnpm dev，确保项目正常运行。
+# 运行完以上命令后，再运行其他平台
+# 如：pnpm dev:mp, pnpm dev:app 等
+```
